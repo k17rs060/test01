@@ -1,0 +1,30 @@
+body{
+	background:lightblue;
+	font-family:monospace;
+	border:darkblue solid thick;
+}
+
+p{
+	font:120% border;
+	
+}
+
+li{
+	font:120% border;
+}
+
+h1{
+	font-size:200%;
+	border-color:darkblue;
+	border-style:solid;
+	border-width:0.1em 0em 0.1em 0em;				
+}
+
+h2{
+	font-size:150%;
+	font-style:italic;
+}
+
+ol{
+	list-style-type:lower-greek
+}
